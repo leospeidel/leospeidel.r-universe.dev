@@ -2,5 +2,9 @@
     {
         "package": "twigstats",
         "url": "https://github.com/leospeidel/twigstats"
-    }
+    },
+		{
+			"package": "relater",
+			"url": "https://github.com/leospeidel/relater"
+		}
 ]
